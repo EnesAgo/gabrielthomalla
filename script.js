@@ -1,3 +1,5 @@
+// Any future JavaScript functionality can be added here
+
 // Smooth scrolling for navigation links
 document.querySelectorAll('a[href^="#"]').forEach(anchor => {
     anchor.addEventListener('click', function (e) {
