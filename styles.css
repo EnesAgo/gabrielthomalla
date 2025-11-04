@@ -272,6 +272,7 @@ body {
 @media (max-width: 1024px) {
     .project-inner {
         gap: 3rem;
+        padding: 0 2rem;
     }
 
     .project-text, .project-image {
